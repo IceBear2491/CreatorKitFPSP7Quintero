@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   triggerType: 0
-  weaponType: 1
+  weaponType: 0
   fireRate: 0.0001
   reloadTime: 0.000001
   clipSize: 19000000
@@ -58,7 +58,7 @@ MonoBehaviour:
   projectileLaunchForce: 200
   EndPoint: {fileID: 9125261757865890827}
   advancedSettings:
-    spreadAngle: 30
+    spreadAngle: 3
     projectilePerShot: 10
     screenShakeMultiplier: 0
   FireAnimationClip: {fileID: 7400006, guid: 36622a955330bc346a249a1e63e61d2a, type: 3}
