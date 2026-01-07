@@ -53,8 +53,7 @@ MonoBehaviour:
   clipSize: 19000000
   damage: 20
   ammoType: 2
-  projectilePrefab: {fileID: 672515860094952321, guid: 4cfffa2f875e16444a1aa80acb915297,
-    type: 3}
+  projectilePrefab: {fileID: 0}
   projectileLaunchForce: 200
   EndPoint: {fileID: 9125261757865890827}
   advancedSettings:
